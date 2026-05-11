@@ -1,3 +1,4 @@
+<img width="1265" height="692" alt="Screenshot 2026-05-10 100957" src="https://github.com/user-attachments/assets/e1e428b0-c3b3-4227-b3ef-9e12e82b52fa" />
 # sales-report-dashboard
 This project contains a Power BI Sales Dashboard designed to analyze sales performance across multiple dimensions.   It provides insights into revenue, profit, order volume, product categories, payment methods, and sales channels.   
 It provides insights into:
